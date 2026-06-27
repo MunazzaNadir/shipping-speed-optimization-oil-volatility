@@ -6,9 +6,9 @@ This project analyzes how bunker fuel price volatility affects cost-minimizing v
 
 | File | Description |
 |---|---|
-| `code/vessel_speed_simulation.py` | Python simulation code for vessel speed optimization, fleet sizing, and break-even analysis |
-| `report/vessel_speed_optimization_report.pdf` | Final written report explaining the model, assumptions, results, and interpretation |
-| `slides/vessel_speed_optimization_slides.pdf` | Final presentation slides |
+| `code/230_Project.ipynb` | Jupyter notebook with the vessel speed optimization, fleet sizing, and break-even analysis |
+| `slides and presentation/Report_Vessel_Speed_Optimization-Final Report.pdf` | Final written report explaining the model, assumptions, results, and interpretation |
+| `slides and presentation/ppt-Vessel-Speed-Optimization-Under-Oil-Price-Volatility (3).pdf` | Final presentation slides |
 | `requirements.txt` | Python packages needed to run the simulation |
 
 ## Research Question
@@ -25,3 +25,4 @@ Install the required packages:
 
 ```bash
 pip install -r requirements.txt
+```
